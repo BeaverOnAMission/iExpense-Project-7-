@@ -3,6 +3,6 @@ An expense tracking app allowing users to add, view, and filter expenses. Expens
 Featuring:  
 Dynamic sorting,  
 CoreData/SwiftData, 
-Custom UINavigationBar.appearance()
+Custom UINavigationBar.appearance(),  
 Different color depending on price range,  
 @Model attribute marks SwiftData model classes as managed objects.
